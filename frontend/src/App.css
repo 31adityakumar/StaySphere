@@ -1,0 +1,9 @@
+
+.hotel-list{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 1rem;
+  min-height: 100vh;
+}

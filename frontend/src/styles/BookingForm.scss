@@ -1,0 +1,121 @@
+.booking-form {
+  max-width: 450px;
+  margin: auto;
+  padding: 2rem;
+  background: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.06);
+  text-align: center;
+  font-family: "Arial", sans-serif;
+  animation: fadeIn 0.5s ease-in-out;
+
+  h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: #333;
+  }
+
+  p {
+    font-size: 1rem;
+    color: #666;
+    margin-bottom: 1rem;
+  }
+
+  input {
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 12px 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+    color: #333;
+    background: #f9f9f9;
+    box-shadow: inset 0 2px 5px rgba(0, 0, 0, 0.05);
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+
+    &:focus {
+      border-color: #007bff;
+      box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+      outline: none;
+      background: #fff;
+    }
+
+    &::placeholder {
+      color: #aaa;
+    }
+  }
+
+  button {
+    width: 100%;
+    padding: 12px 15px;
+    background: #007bff;
+    color: white;
+    font-size: 1rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-transform: uppercase;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;
+
+    &:hover {
+      background: #0056b3;
+      transform: translateY(-2px);
+      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    }
+
+    &:active {
+      transform: translateY(0);
+      box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
+    }
+  }
+}
+
+/* Keyframe for smooth form entry */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .booking-form {
+    max-width: 90%;
+    padding: 15px;
+
+    h2 {
+      font-size: 1.25rem;
+    }
+
+    input,
+    button {
+      font-size: 0.9rem;
+      padding: 10px;
+    }
+  }
+}
+
+@media (max-width: 480px) {
+  .booking-form {
+    max-width: 100%;
+    margin: 1rem auto;
+    padding: 10px;
+
+    h2 {
+      font-size: 1rem;
+    }
+
+    input,
+    button {
+      font-size: 0.85rem;
+      padding: 8px;
+    }
+  }
+}

@@ -1,0 +1,30 @@
+.footer {
+  background-color: #ffc400; /* Matches the header for consistency */
+  color: white;
+  text-align: center;
+  padding: 1rem 0; /* Adds spacing for better readability */
+  font-size: 1rem; /* Ensures the text is legible */
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow for depth */
+}
+
+.footer p {
+  margin: 0; /* Removes unwanted margins */
+  font-weight: bold; /* Makes the text more prominent */
+}
+
+@media (max-width: 768px) {
+  .footer {
+    font-size: 0.9rem; /* Adjust font size for smaller screens */
+    padding: 0.8rem 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .footer {
+    font-size: 0.8rem; /* Further adjusts for compact screens */
+    padding: 0.6rem 0;
+  }
+}

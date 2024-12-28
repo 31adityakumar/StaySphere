@@ -1,0 +1,122 @@
+[
+    {
+        "hotelName": "Capital O Elegant Amethyst Business Hotel Near Ragigudda Sri Prasanna Anjaneyaswamy Temple",
+        "price": "₹990",
+        "roomType": "Standard",
+        "availability": true
+    },
+    {
+        "hotelName": "Super Hotel O Thimmaiah Rd Rajajinagar",
+        "price": "₹1182",
+        "roomType": "Standard",
+        "availability": true
+    },
+    {
+        "hotelName": "Super Townhouse Koramangala",
+        "price": "₹1336",
+        "roomType": "Standard",
+        "availability": true
+    },
+    {
+        "hotelName": "Super Hotel O Resida Elite Service Apartments Near Manipal hospital",
+        "price": "₹1180",
+        "roomType": "Standard",
+        "availability": true
+    },
+    {
+        "hotelName": "Collection O 29 Church's Inn Near Cubbon Park",
+        "price": "₹1028",
+        "roomType": "Standard",
+        "availability": true
+    },
+    {
+        "hotelName": "Super Capital O Sigma Cricotel",
+        "price": "₹752",
+        "roomType": "Standard",
+        "availability": true
+    },
+    {
+        "hotelName": "Super Collection O Indian Suites Near Sitara Restaurant",
+        "price": "₹912",
+        "roomType": "Standard",
+        "availability": true
+    },
+    {
+        "hotelName": "Hotel O Sri Sai Residency",
+        "price": "₹598",
+        "roomType": "Standard",
+        "availability": true
+    },
+    {
+        "hotelName": "Hotel O New Crescent Citadel",
+        "price": "₹994",
+        "roomType": "Standard",
+        "availability": true
+    },
+    {
+        "hotelName": "Super Collection O Manasi Residency",
+        "price": "₹1203",
+        "roomType": "Standard",
+        "availability": true
+    },
+    {
+        "hotelName": "Super Collection O The Trinitywood Hotel",
+        "price": "₹1116",
+        "roomType": "Standard",
+        "availability": true
+    },
+    {
+        "hotelName": "Hotel O ABHIMAANI COMFORTS",
+        "price": "₹744",
+        "roomType": "Standard",
+        "availability": true
+    },
+    {
+        "hotelName": "Hotel O Midas Casita",
+        "price": "₹1332",
+        "roomType": "Standard",
+        "availability": true
+    },
+    {
+        "hotelName": "Hotel O NAR Comforts Near KSR Railway station",
+        "price": "₹922",
+        "roomType": "Standard",
+        "availability": true
+    },
+    {
+        "hotelName": "Hotel O Champion Comfort Near Hosahalli Metro Station",
+        "price": "₹841",
+        "roomType": "Standard",
+        "availability": true
+    },
+    {
+        "hotelName": "Hotel O Golden Inn Near Cubbon Park",
+        "price": "₹761",
+        "roomType": "Standard",
+        "availability": true
+    },
+    {
+        "hotelName": "Hotel O Rajmahal Boarding & Lodging",
+        "price": "₹713",
+        "roomType": "Standard",
+        "availability": true
+    },
+    {
+        "hotelName": "Hotel O PMR Near Ascendas Park Square Mall",
+        "price": "₹732",
+        "roomType": "Standard",
+        "availability": true
+    },
+    {
+        "hotelName": "Hotel O PMR Hotel",
+        "price": "₹582",
+        "roomType": "Standard",
+        "availability": true
+    },
+    {
+        "hotelName": "Super Hotel O Shree Mookambika Guest House Near Sri Someshwara Swami Temple",
+        "price": "₹650",
+        "roomType": "Standard",
+        "availability": true
+    }
+]
