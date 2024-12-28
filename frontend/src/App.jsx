@@ -1,12 +1,12 @@
 import { useState } from "react";
-import hotelData from "./data/hotelsdata";
-import HotelCard from "./components/HotelCard";
-import BookingForm from "./components/BookingForm";
-import Filter from "./components/Filter";
-import Modal from "./components/Modal";
+import hotelData from "./data/hotelsData.js";
+import HotelCard from "./components/HotelCard.jsx";
+import BookingForm from "./components/BookingForm.jsx";
+import Filter from "./components/Filter.jsx";
+import Modal from "./components/Modal.jsx";
 import './App.css';
-import Footer from "./components/Footer";
-import Header from "./components/Header";
+import Footer from "./components/Footer.jsx";
+import Header from "./components/Header.jsx";
 const App = () => {
   const [selectedHotel, setSelectedHotel] = useState(null);
   const [selectedRoom, setSelectedRoom] = useState(null);

@@ -1,6 +1,6 @@
 import { useState } from "react";
 import PropTypes from "prop-types";
-import { sendConfirmationEmail } from "../utils/emailService";
+import { sendConfirmationEmail } from "../utils/emailService.js";
 import "../styles/BookingForm.scss";
 
 const BookingForm = ({ selectedHotel, selectedRoom, handleClose }) => {
