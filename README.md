@@ -65,16 +65,16 @@ The data is saved in a structured **JSON** format in the `data` directory.
 5. **Data Storage**:
    - The scraped data is saved as a **JSON** file (`room_data.json`) in the `data` directory for easy consumption.
 
-``bash
+```
 git clone https://github.com/31adityakumar/StaySphere
 cd staysphere
 npm install
 npm run dev
-``
+```
 
 ## To scrape data
-``bash
+```
 .\venv\Scripts\Activate
 pip install selenium webdriver-manager requests beautifulsoup4
 python scrape_data.py
-``
+```
