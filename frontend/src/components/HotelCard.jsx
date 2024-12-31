@@ -1,3 +1,4 @@
+import PropTypes from "prop-types";
 import "../styles/HotelCard.scss";
 
 const HotelCard = ({ hotel, roomType, onBookNow }) => {
@@ -23,6 +24,20 @@ const HotelCard = ({ hotel, roomType, onBookNow }) => {
       ))}
     </div>
   );
+};
+
+HotelCard.propTypes = {
+  hotel: PropTypes.shape({
+    hotelName: PropTypes.string.isRequired,
+    rooms: PropTypes.arrayOf(
+      PropTypes.shape({
+        roomType: PropTypes.string.isRequired,
+        price: PropTypes.number.isRequired,
+      })
+    ).isRequired,
+  }).isRequired,
+  roomType: PropTypes.string,
+  onBookNow: PropTypes.func.isRequired,
 };
 
 export default HotelCard;
