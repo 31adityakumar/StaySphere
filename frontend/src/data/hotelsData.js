@@ -4,22 +4,22 @@ const hotelsData = [
         "rooms": [
             {
                 "roomType": "Deluxe Room",
-                "price": "₹8350",
+                "price": "₹6200",
                 "availability": true
             },
             {
                 "roomType": "Luxury Suite",
-                "price": "₹16700",
+                "price": "₹12500",
                 "availability": true
             },
             {
                 "roomType": "Economy Room",
-                "price": "₹6700",
+                "price": "₹3300",
                 "availability": true
             },
             {
                 "roomType": "Presidential Suite",
-                "price": "₹41700",
+                "price": "₹36000",
                 "availability": true
             }
         ]
@@ -29,22 +29,22 @@ const hotelsData = [
         "rooms": [
             {
                 "roomType": "Deluxe Room",
-                "price": "₹8350",
+                "price": "₹6400",
                 "availability": true
             },
             {
                 "roomType": "Luxury Suite",
-                "price": "₹16700",
+                "price": "₹13200",
                 "availability": true
             },
             {
                 "roomType": "Economy Room",
-                "price": "₹6700",
+                "price": "₹3400",
                 "availability": true
             },
             {
                 "roomType": "Presidential Suite",
-                "price": "₹41700",
+                "price": "₹37000",
                 "availability": true
             }
         ]
@@ -54,22 +54,22 @@ const hotelsData = [
         "rooms": [
             {
                 "roomType": "Deluxe Room",
-                "price": "₹6690",
+                "price": "₹5000",
                 "availability": true
             },
             {
                 "roomType": "Luxury Suite",
-                "price": "₹13380",
+                "price": "₹11000",
                 "availability": true
             },
             {
                 "roomType": "Economy Room",
-                "price": "₹5360",
+                "price": "₹2900",
                 "availability": true
             },
             {
                 "roomType": "Presidential Suite",
-                "price": "₹33400",
+                "price": "₹32000",
                 "availability": true
             }
         ]
@@ -79,22 +79,22 @@ const hotelsData = [
         "rooms": [
             {
                 "roomType": "Deluxe Room",
-                "price": "₹10080",
+                "price": "₹7000",
                 "availability": true
             },
             {
                 "roomType": "Luxury Suite",
-                "price": "₹20160",
+                "price": "₹14500",
                 "availability": true
             },
             {
                 "roomType": "Economy Room",
-                "price": "₹8060",
+                "price": "₹3600",
                 "availability": true
             },
             {
                 "roomType": "Presidential Suite",
-                "price": "₹50200",
+                "price": "₹40000",
                 "availability": true
             }
         ]
@@ -104,22 +104,22 @@ const hotelsData = [
         "rooms": [
             {
                 "roomType": "Deluxe Room",
-                "price": "₹8430",
+                "price": "₹6300",
                 "availability": true
             },
             {
                 "roomType": "Luxury Suite",
-                "price": "₹16860",
+                "price": "₹13000",
                 "availability": true
             },
             {
                 "roomType": "Economy Room",
-                "price": "₹6700",
+                "price": "₹3400",
                 "availability": true
             },
             {
                 "roomType": "Presidential Suite",
-                "price": "₹41700",
+                "price": "₹35000",
                 "availability": true
             }
         ]
@@ -129,22 +129,22 @@ const hotelsData = [
         "rooms": [
             {
                 "roomType": "Deluxe Room",
-                "price": "₹5530",
+                "price": "₹4600",
                 "availability": true
             },
             {
                 "roomType": "Luxury Suite",
-                "price": "₹11060",
+                "price": "₹9400",
                 "availability": true
             },
             {
                 "roomType": "Economy Room",
-                "price": "₹4420",
+                "price": "₹2800",
                 "availability": true
             },
             {
                 "roomType": "Presidential Suite",
-                "price": "₹27600",
+                "price": "₹25000",
                 "availability": true
             }
         ]
@@ -154,22 +154,22 @@ const hotelsData = [
         "rooms": [
             {
                 "roomType": "Deluxe Room",
-                "price": "₹6550",
+                "price": "₹5700",
                 "availability": true
             },
             {
                 "roomType": "Luxury Suite",
-                "price": "₹13100",
+                "price": "₹12000",
                 "availability": true
             },
             {
                 "roomType": "Economy Room",
-                "price": "₹5240",
+                "price": "₹3100",
                 "availability": true
             },
             {
                 "roomType": "Presidential Suite",
-                "price": "₹32800",
+                "price": "₹29000",
                 "availability": true
             }
         ]
@@ -179,22 +179,22 @@ const hotelsData = [
         "rooms": [
             {
                 "roomType": "Deluxe Room",
-                "price": "₹8110",
+                "price": "₹6100",
                 "availability": true
             },
             {
                 "roomType": "Luxury Suite",
-                "price": "₹16220",
+                "price": "₹12800",
                 "availability": true
             },
             {
                 "roomType": "Economy Room",
-                "price": "₹6480",
+                "price": "₹3200",
                 "availability": true
             },
             {
                 "roomType": "Presidential Suite",
-                "price": "₹40600",
+                "price": "₹33000",
                 "availability": true
             }
         ]
@@ -204,22 +204,22 @@ const hotelsData = [
         "rooms": [
             {
                 "roomType": "Deluxe Room",
-                "price": "₹12830",
+                "price": "₹7000",
                 "availability": true
             },
             {
                 "roomType": "Luxury Suite",
-                "price": "₹25660",
+                "price": "₹15000",
                 "availability": true
             },
             {
                 "roomType": "Economy Room",
-                "price": "₹10240",
+                "price": "₹3900",
                 "availability": true
             },
             {
                 "roomType": "Presidential Suite",
-                "price": "₹64100",
+                "price": "₹40000",
                 "availability": true
             }
         ]
@@ -229,22 +229,22 @@ const hotelsData = [
         "rooms": [
             {
                 "roomType": "Deluxe Room",
-                "price": "₹8060",
+                "price": "₹6400",
                 "availability": true
             },
             {
                 "roomType": "Luxury Suite",
-                "price": "₹16120",
+                "price": "₹12600",
                 "availability": true
             },
             {
                 "roomType": "Economy Room",
-                "price": "₹6440",
+                "price": "₹3300",
                 "availability": true
             },
             {
                 "roomType": "Presidential Suite",
-                "price": "₹40200",
+                "price": "₹34000",
                 "availability": true
             }
         ]
@@ -254,26 +254,26 @@ const hotelsData = [
         "rooms": [
             {
                 "roomType": "Deluxe Room",
-                "price": "₹9420",
+                "price": "₹6800",
                 "availability": true
             },
             {
                 "roomType": "Luxury Suite",
-                "price": "₹18840",
+                "price": "₹14000",
                 "availability": true
             },
             {
                 "roomType": "Economy Room",
-                "price": "₹7560",
+                "price": "₹3500",
                 "availability": true
             },
             {
                 "roomType": "Presidential Suite",
-                "price": "₹47200",
+                "price": "₹36000",
                 "availability": true
             }
         ]
     }
-]
+];
 
 export default hotelsData;
